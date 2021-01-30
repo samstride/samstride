@@ -1,16 +1,14 @@
-### Hi there 👋
+## Vijay Savanth Madala (@samstride) 👋
 
-<!--
-**samstride/samstride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+- 🔭  I’m currently working on multiple projects that predominantly involve Go + Kubernetes.
+- 🌱  I plan to learn Rust soon.
+- 👯  I’m looking to collaborate with other like minded engineers who contribute to open source.
+- 📫  You can reach me via email specified on my Github profile.
+- 😄  Pronouns: He/Him
+- ⚡   Fun fact: I moved to New Zealand in 2006 inspired by the Lord of the Rings movie series.
 
-Here are some ideas to get you started:
+### Tech posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Guide to setup KrakenD on GKE](https://www.hackernoon.com/how-to-successfully-set-up-krakend-on-gke-a-step-by-step-guide-ny22311c)
+- [Decimal handling in Golang](https://www.hackernoon.com/2-error-free-options-for-decimal-handling-in-golang-q53a318r)
