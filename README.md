@@ -1,8 +1,9 @@
 ## Vijay Savanth Madala (@samstride) 👋
+> Last updated: 15-March-2020
 
 ### Introduction
-- 🔭  I’m currently working on multiple projects that predominantly involve Go + Kubernetes.
-- 🌱  I plan to learn Rust soon.
+- 🔭  I’m currently working on multiple projects that predominantly involve Go and Kubernetes.
+- 🌱  I work with organizations to setup enterprise ready Kubernetes platforms.
 - 👯  I’m looking to collaborate with other like minded engineers who contribute to open source.
 - 📫  You can reach me via email specified on my Github profile.
 - 😄  Pronouns: He/Him
