@@ -1,5 +1,5 @@
 ## Vijay Savanth Madala (@samstride) 👋
-> Last updated: 15-March-2020
+> Last updated: 27-Sep-2021
 
 ### Introduction
 - 🔭  I’m currently working on multiple projects that predominantly involve Go and Kubernetes.
@@ -13,3 +13,4 @@
 
 - [Guide to setup KrakenD on GKE](https://www.hackernoon.com/how-to-successfully-set-up-krakend-on-gke-a-step-by-step-guide-ny22311c)
 - [Decimal handling in Golang](https://www.hackernoon.com/2-error-free-options-for-decimal-handling-in-golang-q53a318r)
+- [Docker Images - Tags vs Digest](https://hackernoon.com/docker-images-name-vs-tag-vs-digest)
